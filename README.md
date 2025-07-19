@@ -1,2 +1,2 @@
-# Rihlah-camp-Indonesia
-Tent-camp business
+# Rihlah-camp
+Tent-camp rent business
